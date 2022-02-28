@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&family=Ubuntu+Mono&display=swap');
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.mainGame {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.onlySelection {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hangman {
+    font-family: monospace;
+    font-size: 24px;
+}
+
+.red {
+    color: red;
+}
+
+.finish {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bold {
+    font-size: 36px;
+    font-weight: bold;
+}
